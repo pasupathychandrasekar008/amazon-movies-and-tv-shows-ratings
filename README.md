@@ -22,4 +22,4 @@ This project aims to analyze and visualize ratings data for movies and TV shows 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/amazon-ratings-project.git
+   git clone https://github.com/pasupathychandrasekar008/amazon-ratings-project.git
